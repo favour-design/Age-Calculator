@@ -2,6 +2,10 @@
     margin: 0px;
     border: 0px;
     padding: 20px;
+    /* margin-left: 10%;
+    margin-right: 30%; */
+    padding: 35px;
+    text-align: center;
     
 }
 .child1 {
@@ -32,6 +36,12 @@
     /* color: white; */
     /* border-radius: 15px */
 }  
+.child2 {
+    background-color: #5d4583;
+    color: white;
+}
+
+
 
 
 
