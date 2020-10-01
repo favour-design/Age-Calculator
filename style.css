@@ -1,0 +1,39 @@
+.parent {
+    margin: 0px;
+    border: 0px;
+    padding: 20px;
+    
+}
+.child1 {
+    background-color: #5d4583;
+    margin-left: 20%;
+    margin-right: 40%;
+    padding: 35px;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+}
+.Age {
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 30px;
+
+}
+.find {
+    font-size: 20px;
+    font-family: popsins;
+    margin-bottom: 35px;
+     line-height: 30px;
+
+}
+.me {
+    font-size: 25px;
+    background-color: #5d4583;
+    /* color: white; */
+    /* border-radius: 15px */
+}  
+
+
+
+
+
