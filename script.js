@@ -27,11 +27,25 @@ function Ageclat(){
 
     let nam = document.getElementById("span1");
     nam.textContent = name;
+    let nam4 = document.getElementById("span4");
+    nam4.textContent = name1;
     let nam1 = document.getElementById("span2");
-    nam1.textContent = name1;
+    nam1.textContent = age;
     let nam2;
     nam2 = age * 365 
     nam3 = document.getElementById("span3");
     nam3.textContent = nam2;
+
+    if(name === "" || name1 ===""){
+        alert("Fill in the missing details!");
+          return;
+    } else if (age ==="" || name ===""){
+        alert("Form must be filled Properly");
+      return;
+    }   else if (age ==="" || name1 ===""){ 
+        alert("Your Details Are Not Complete");
+        return;
+      
+    }
 }
 
