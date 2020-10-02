@@ -6,7 +6,7 @@
     <title>Age Calculator</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="body">
     <div class="parent">
         <header></header>  
         <main> 
@@ -37,11 +37,11 @@
                     <input type="text" id="fname" name="fname" class="NaNd" placeholder=" Enter Name">
                     <p><label for="lname" class="NaN"> Last Name:</label>
                     <input type="text" id= "lname" name="lname" class="NaNd" placeholder=" Enter Name"></p>
-                    <label for="date" class="NaN"> Date of Birth:</label>
-                    <input type="date" id="date" name="date" class="NaNd">
+                    <label for="Age" class="NaN"> Your Age</label>
+                    <input type="text" id="agebox" name="your age" maxlength="3" class="NaNd">
                 </form>
                 <p>
-                    <button type="submit"  class="NaNs">Sumbit</button></p>
+                    <button type="submit"  class="NaNs" onclick="Ageclat()">Submit</button></p>
     
              </div>
            </div> 
@@ -49,9 +49,11 @@
             <h3 class="con">
                 CONGRATULATION!!! 💃🕺💃🕺
             </h3>
-            <P class="you">
-                You have lived years and days old.
-            </P>
+            <p>Name: Your Name is <span id="span1"></span> </p>
+            <p>Last Name is <span></span></p>
+            <p>Age: your are <span id="span2"></span>years old.</p>
+            <p>Days: you have lived: <span id="span3"></span>days old.</p>
+        
              <button type="reset" class="Re"> RESET</button>
         </div>
         
