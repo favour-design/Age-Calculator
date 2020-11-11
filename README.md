@@ -22,7 +22,7 @@ This calculator requires individual details such as: First Name, Last Name and A
 
 ## Prototype
 I made my prototype was created using Figma. 
-![This is the First page used in this project](./Assets "Capture.")
+![This is the First page used in this project](/Assets/Capture.PNG "please view.")
 
  ## Developed with:
  
