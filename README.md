@@ -8,24 +8,29 @@ This is an app used in calculating the number of years lived by a person
  
  ### Contacts
   Email: favourmje@gmail.com
-Twitter: @FavourMaryjane
+  Twitter: @FavourMaryjane
+  Linkedin: www.likedin.com/in/favour-maryjane-1633b919a
 
-## Features
+## Funtionalities
 This Age-Calculator can be used to:
 Calculate age in days.
 Collect data informations;
 
+## Features
+This calculator requires individual details such as: First Name, Last Name and Age.
+
 
 ## Prototype
 I made my prototype was created using Figma. 
-![This is the First page used in this project](Capture.png "please view.")
- ![This is the second page of the project](Capture1.png) "Please view")
+![This is the First page used in this project](./Assets "Capture.")
 
  ## Developed with:
  
  1. HTML
  2. CSS
  3. JAVASCRIPT
+ 
+
 
  ## Editor used
   Visual Studio Code
