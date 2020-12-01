@@ -1,5 +1,5 @@
 # Age-Calculator
-This is an app used in calculating the number of years lived by a person
+This is an age calculation app, used in calculating the number of years and days lived by a particular person. On click, the result is shows forth as an alert.
 ## live demo
 [see project live here]( https://github.com/favour-design/Age-Calculator.git)
 
